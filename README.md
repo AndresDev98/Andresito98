@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andresito98
+- 👋 Hola , soy @Andresito98
 - 👀 Estoy interesado en aprender como funciona GitHub y otras muchas cosas.
 - 💞️ Estoy deseando terminar mi Grado Superior de DAM para aprender mas todavia.
 - 📫 How to reach me ...
