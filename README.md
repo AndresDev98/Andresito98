@@ -1,6 +1,8 @@
 - 👋 Hola , soy @Andresito98
 - 👀 Estoy interesado en aprender como funciona GitHub y otras muchas cosas.
-- 💞️ Estoy deseando terminar mi Grado Superior de DAM para aprender mas todavia.
+- 💞️ Recién terminado Grado Superior Dam (Desarrollo de Aplicaciones Multiplataforma)
+- 👨‍🎓 Actualmente haciendo un Bootcamp en OpenBootcamp para especializarme más en el sector y aprender nuevos lenguajes de programación.
+- 👽 Me puedes encontrar en mi LinKedin aquí : www.linkedin.com/in/andrés-retamal-lópez-985898212
 - 📫 How to reach me ...
 
 <!---
