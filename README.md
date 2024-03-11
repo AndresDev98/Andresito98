@@ -1,6 +1,6 @@
-- 👋 Hola , soy @Andresito98
+- 👋 Hola , soy @AndresDev98
 - 👀 Estoy interesado en aprender cada día mas y desarrollarme todo lo que pueda con .NET
 - 💞️ Con Grado Superior Dam (Desarrollo de Aplicaciones Multiplataforma)
-- 👨‍🎓 Con formación extra en OpenBootcamp, con multiple de cursos.
+- 👨‍🎓 Con formación extra en OpenBootcamp y Udemy, con multiple de cursos.
 - 👽 Me puedes encontrar en mi LinKedin aquí : www.linkedin.com/in/andrés-retamal-lópez-985898212
-- 📫 Actualmente con mas de 2 años y medio de experiencia con el desarrollo de APIS en .NET y base de datos principal SQL Server...
+- 📫 Actualmente con mas de 2 años y medio de experiencia con el desarrollo de APIS en .NET, utilizando microservicios, contenedores docker y muchas mas herramientas de trabajo.
